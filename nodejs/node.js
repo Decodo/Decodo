@@ -1,9 +1,9 @@
 const axios = require("axios");
 
-const url = "https://ip.smartproxy.com/json";
+const url = "https://ip.decodo.com/json";
 const resp = axios.get(url, {
     proxy: {
-        host: 'gate.smartproxy.com',
+        host: 'gate.decodo.com',
         port: 7000,
         auth: {
             username: 'username',
