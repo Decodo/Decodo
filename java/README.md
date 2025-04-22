@@ -1,10 +1,10 @@
 <p align="center">
-    <a href="https://smartproxy.com/"><img src="https://snipboard.io/3IyORg.jpg"></a>
+    <a href="https://decodo.com/"><img src="https://github.com/user-attachments/assets/209d01f2-3931-4e77-a6f3-0028b1ee2b72"></a>
   </a>
 </p>
 
 <p align="center">
-    <a href="https://github.com/Smartproxy/Smartproxy"> :house: Main Repository :house: </a>
+    <a href="https://github.com/Decodo/Decodo"> Main Repository </a>
 </p>
 
 ## Disclaimer
@@ -17,7 +17,7 @@ To run the following code example, you'll need Java, the Java SE Runtime Environ
 - [Java SE Runtime Environment 8](https://www.oracle.com/java/technologies/downloads/#java8)
 - [Eclipse](https://eclipseide.org/)
 
-You should also have a [Smartproxy account](https://dashboard.smartproxy.com/register) with access to the [dashboard](https://dashboard.smartproxy.com/residential-proxies/proxy-setup) to get your credentials and endpoint information.
+You should also have a [Decodo account](https://dashboard.decodo.com/register) with access to the [dashboard](https://dashboard.decodo.com/residential-proxies/proxy-setup) to get your credentials and endpoint information.
 
 ## Installation
 
@@ -30,11 +30,11 @@ If you choose to run the code using a different method or want to execute the sc
 mkdir java_example
 ```
 2. Navigate to the main directory of your project folder using `cd java_example`.
-3. Copy the code directly from [here](https://github.com/Smartproxy/Smartproxy/blob/master/java/java.java), or execute the following command to download the proxy setup example file:
+3. Copy the code directly from [here](https://github.com/Decodo/Decodo/blob/master/java/java.java), or execute the following command to download the proxy setup example file:
 ```
-curl https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/java/java.java > java.java
+curl https://raw.githubusercontent.com/Decodo/Decodo/master/java/java.java > java.java
 ```
-<img src="https://i.imgur.com/4NpvtzU.png" alt="curl smartproxy java code sample">
+<img src="https://i.imgur.com/4NpvtzU.png" alt="curl Decodo java code sample">
 
 4. You should see a new file named `java.java` in your project folder. Open it using an editor of your choice.
 
@@ -43,7 +43,7 @@ curl https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/java/java.ja
 
 To run this Java example, set your username, password, and endpoint information you'd like to use and enter them in the following sections of the code:
 
-<img src="https://i.imgur.com/1LKiH1K.png" alt="smartproxy java proxy username password authentication">
+<img src="https://i.imgur.com/1LKiH1K.png" alt="Decodo Java proxy username password authentication">
 
 ## Usage
 
@@ -58,6 +58,6 @@ java -Djdk.http.auth.tunneling.disabledSchemes="" java.java
 ```
 
 ## Need help?
-Email - sales@smartproxy.com
+Email - sales@decodo.com
 
 <a href="https://direct.lc.chat/12092754/">Live chat 24/7</a>
