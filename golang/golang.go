@@ -9,8 +9,8 @@ import (
 )
 
 const (
-	resourceUrl = "https://ip.smartproxy.com/json/"
-	proxyHost   = "gate.smartproxy.com:7000"
+	resourceUrl = "https://ip.decodo.com/json/"
+	proxyHost   = "gate.decodo.com:7000"
 	username    = "username"
 	password    = "password"
 )
