@@ -1,7 +1,7 @@
 <?php
 
-    $url = 'ip.smartproxy.com/json';
-    $proxy = 'gate.smartproxy.com';
+    $url = 'ip.decodo.com/json';
+    $proxy = 'gate.decodo.com';
     $port = 7000;
     $user = 'username';
     $psw = 'password';
