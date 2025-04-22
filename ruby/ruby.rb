@@ -1,12 +1,12 @@
 require "uri" 
 require 'net/http' 
 
-proxy_host = 'gate.smartproxy.com' 
+proxy_host = 'gate.decodo.com' 
 proxy_port = 7000 
 proxy_user = 'username' 
 proxy_pass = 'password' 
 
-uri = URI.parse('https://ip.smartproxy.com/json') 
+uri = URI.parse('https://ip.decodo.com/json') 
 proxy = Net::HTTP::Proxy(proxy_host, proxy_port, proxy_user, proxy_pass) 
 
 req = Net::HTTP::Get.new(uri.path) 
