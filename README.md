@@ -91,6 +91,6 @@ Decodo offers a wide proxy pool that covers locations worldwide. You can choose 
 All code is released under the [MIT License](https://github.com/Decodo/Decodo/blob/master/LICENSE).
 
 ## Contact
-Email - sales@Decodo.com
+Email - sales@decodo.com
 
 <a href="https://direct.lc.chat/12092754/">Live chat 24/7</a>
