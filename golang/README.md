@@ -49,6 +49,6 @@ You should see an IP address in the console window if everything was set up corr
 Big thanks to [@moeryomenko](https://github.com/moeryomenko) for submitting this code.
 
 ## Need help?
-Email - sales@Decodo.com
+Email - sales@decodo.com
 
 <a href="https://direct.lc.chat/12092754/">Live chat 24/7</a>
