@@ -10,7 +10,7 @@
 </h2>
 
 <p align="center">
-Access to over 55 million high-quality IPs with Decodo – the ultimate proxy service for web scraping. Elevate your data gathering to the next level with our top-tier proxy solutions and location-targeting options. Simplify your data extraction process today!
+Access to over 125 million high-quality IPs with Decodo – the ultimate proxy service for all your web data projects. Scale your data gathering, manage multiple accounts, and train your AI agents with award-winning infrastructure.
 </p>
 
 ## List of contents
