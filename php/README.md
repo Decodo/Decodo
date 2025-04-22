@@ -1,10 +1,10 @@
 <p align="center">
-    <a href="https://smartproxy.com/"><img src="https://snipboard.io/3IyORg.jpg"></a>
+    <a href="https://decodo.com/"><img src="https://github.com/user-attachments/assets/209d01f2-3931-4e77-a6f3-0028b1ee2b72"></a>
   </a>
 </p>
 
 <p align="center">
-    <a href="https://github.com/Smartproxy/Smartproxy"> :house: Main Repository :house: </a>
+    <a href="https://github.com/Decodo/Decodo"> Main Repository </a>
 </p>
 
 ## Disclaimer
@@ -16,7 +16,7 @@ Install and set up the PHP programming language on your machine. If you don't wa
 * [PHP](https://www.php.net/manual/en/install.php)
 * [Apache](https://httpd.apache.org/) (optional)
 
-You should also have a [Smartproxy account](https://dashboard.smartproxy.com/register) with access to the [dashboard](https://dashboard.smartproxy.com/residential-proxies/proxy-setup) to get your credentials and endpoint information.
+You should also have a [Decodo account](https://dashboard.decodo.com/register) with access to the [dashboard](https://dashboard.decodo.com/residential-proxies/proxy-setup) to get your credentials and endpoint information.
 
 ## Installation
 
@@ -25,18 +25,23 @@ You should also have a [Smartproxy account](https://dashboard.smartproxy.com/reg
 3. Execute the following command to download the proxy setup example file:
 
 HTTP(s):
-`curl https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/php/php.php > php.php`
+`curl https://raw.githubusercontent.com/Decodo/Decodo/master/php/php.php > php.php`
 
 SOCKS5:
-`curl https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/php/php.php > phpsocks5h.php`
+`curl https://raw.githubusercontent.com/Decodo/Decodo/master/php/php.php > phpsocks5h.php`
 
-<img src="https://i.imgur.com/p0Vaxgu.png" alt="curl smartproxy php code sample">
+<img src="https://i.imgur.com/p0Vaxgu.png" alt="curl Decodo php code sample">
 
 4. You should see a new file named *php.php* in your project folder. Open it using an editor of your choice.
 
 5. To run this example, set your username, password, and endpoint information you'd like to use and enter them in the following sections of the code:
 
-<img src="https://i.imgur.com/sVu5KPa.png" alt="smartproxy php proxy username password authentication">
+```
+$username = 'username';
+$password = 'password';
+$proxy = 'gate.decodo.com:7000';
+$target = curl_init('https://ip.decodo.com/')
+```
 
 ## Usage
 
@@ -46,10 +51,10 @@ Once you have it set up, you can access the file with the path it has been store
 
 You should see an IP address in the console window if everything was set up correctly:
 
-<img src="https://i.imgur.com/tt7naVL.png" alt="smartproxy successful php connection">
+<img src="https://i.imgur.com/tt7naVL.png" alt="Decodo successful php connection">
 
 ## Need help?
-Email - sales@smartproxy.com
+Email - sales@decodo.com
 
 <a href="https://direct.lc.chat/12092754/">Live chat 24/7</a>
 
