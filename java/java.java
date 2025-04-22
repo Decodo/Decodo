@@ -20,7 +20,7 @@ class Client {
     public CloseableHttpClient client;
 
     public Client(String country) {
-        HttpHost proxy = new HttpHost("gate.smartproxy.com", port);
+        HttpHost proxy = new HttpHost("gate.decodo.com", port);
         CredentialsProvider cred_provider = new BasicCredentialsProvider();
         cred_provider.setCredentials(new AuthScope(proxy),
             new UsernamePasswordCredentials(username, password));
@@ -47,7 +47,7 @@ public class Example {
         System.out.println("Performing request(s)");
         Client client = new Client(null);
         try {
-            System.out.println(client.request("https://ip.smartproxy.com"));
+            System.out.println(client.request("https://ip.decodo.com/ip"));
         } finally { client.close(); }
     }
 }
