@@ -17,9 +17,9 @@ class Program
 
     static async void DownloadPageAsync()
     {
-        string page = "https://ip.smartproxy.com/ip";
+        string page = "https://ip.decodo.com/ip";
 
-        var proxy = new WebProxy("gate.smartproxy.com:7000")
+        var proxy = new WebProxy("gate.decodo.com:7000")
         {
             UseDefaultCredentials = false,
 
