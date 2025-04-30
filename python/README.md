@@ -30,7 +30,7 @@ HTTP(s):
 SOCKS5:
 `curl https://raw.githubusercontent.com/Decodo/Decodo/master/python/python.py > pythonsocks5h.py`
 
-<img src="https://i.imgur.com/aWtcsBV.png" alt="curl Decodo python code sample">
+<img width="689" alt="image" src="https://github.com/user-attachments/assets/10fb5ad8-145e-4e41-b43c-189179bf14eb" />
 
 5. You should see a new file named `python.py` in your project folder. Open it using an editor of your choice.
 6. To run this Python example, set your username, password, and endpoint information you'd like to use and enter them in the following sections of the code:
