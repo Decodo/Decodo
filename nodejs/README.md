@@ -32,7 +32,7 @@ HTTP(s):
 SOCKS5:
 `curl https://raw.githubusercontent.com/Decodo/Decodo/master/nodejs/node.js > nodesocks5h.js`
 
-<img src="https://i.imgur.com/0e5b5vn.png" alt="curl Decodo node.js code sample">
+<img width="674" alt="image" src="https://github.com/user-attachments/assets/1e89f7f8-78aa-472c-b79a-95bf873ce3e2" />
 
 4. You should see a new file named `node.js` in your project folder. Open it using a code editor of your choice.
 
@@ -53,7 +53,7 @@ To execute the Node.js example, simply run `node node.js`.
 
 You should see an IP address in the console window if everything was set up correctly:
 
-<img src="https://i.imgur.com/vya5gY5.png" alt="Decodo successful node.js connection">
+<img width="290" alt="image" src="https://github.com/user-attachments/assets/27b23578-9070-4af4-b8d7-7fa8a24bd25e" />
 
 ## Need help?
 Email - sales@decodo.com
