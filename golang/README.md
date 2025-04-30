@@ -23,7 +23,8 @@ You should also have a [Decodo account](https://dashboard.decodo.com/register) w
  
 `curl https://raw.githubusercontent.com/Decodo/Decodo/master/golang/golang.go > golang.go`
 
-<img src="https://i.imgur.com/yZunHb6.png" alt="curl Decodo golang code sample">
+<img width="687" alt="image" src="https://github.com/user-attachments/assets/b4ecd637-fd6e-4b30-95da-2253d3e4b8f3" />
+
 
 4. You should see a new file named `golang.go` in your project folder. Open it using an editor of your choice.
 5. To run this Go example, set your username, password, and endpoint information you'd like to use and enter them in the following sections of the code:
@@ -42,7 +43,8 @@ To execute the Go example, simply enter `go run golang.go` in your Terminal tool
 
 You should see an IP address in the console window if everything was set up correctly.
 
-<img src="https://i.imgur.com/AtzZ4CU.png">
+<img width="1097" alt="image" src="https://github.com/user-attachments/assets/405918fc-0bac-4ab6-aabb-7bf5aef220eb" />
+
 
 ## Thanks
 
