@@ -34,7 +34,8 @@ mkdir java_example
 ```
 curl https://raw.githubusercontent.com/Decodo/Decodo/master/java/java.java > java.java
 ```
-<img src="https://i.imgur.com/4NpvtzU.png" alt="curl Decodo java code sample">
+<img width="744" alt="image" src="https://github.com/user-attachments/assets/96c4cd84-6341-4869-b878-b34246caf841" />
+
 
 4. You should see a new file named `java.java` in your project folder. Open it using an editor of your choice.
 
@@ -43,7 +44,8 @@ curl https://raw.githubusercontent.com/Decodo/Decodo/master/java/java.java > jav
 
 To run this Java example, set your username, password, and endpoint information you'd like to use and enter them in the following sections of the code:
 
-<img src="https://i.imgur.com/1LKiH1K.png" alt="Decodo Java proxy username password authentication">
+<img width="977" alt="image" src="https://github.com/user-attachments/assets/a7f230d3-95dc-4046-ba00-043b2637d322" />
+
 
 ## Usage
 
