@@ -26,7 +26,7 @@ To use the shell script file, follow these steps:
 
 `curl https://raw.githubusercontent.com/Decodo/Decodo/master/shell/shell.sh > shell.sh`
 
-<img src="https://imgur.com/xyU7sEd.png" alt="curl Decodo ruby code sample">
+<img width="871" alt="image" src="https://github.com/user-attachments/assets/82fd378d-f428-4965-96f2-8c4b9c526e75" />
 
 4. You should see a new file named `shell.sh` in your project folder. Open it using an editor of your choice.
 
