@@ -30,7 +30,7 @@ HTTP(s):
 SOCKS5:
 `curl https://raw.githubusercontent.com/Decodo/Decodo/master/php/php.php > phpsocks5h.php`
 
-<img src="https://i.imgur.com/p0Vaxgu.png" alt="curl Decodo php code sample">
+<img width="657" alt="image" src="https://github.com/user-attachments/assets/760b7a85-b962-42af-aa6d-f3388830f8ad" />
 
 4. You should see a new file named *php.php* in your project folder. Open it using an editor of your choice.
 
