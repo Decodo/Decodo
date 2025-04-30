@@ -25,7 +25,7 @@ Once you have Ruby installed, continue with the following steps:
 
 `curl https://raw.githubusercontent.com/Decodo/Decodo/master/ruby/ruby.rb > ruby.rb`
 
-<img src="https://i.imgur.com/sHxuSIz.png" alt="curl Decodo ruby code sample">
+<img width="665" alt="image" src="https://github.com/user-attachments/assets/0f3720ac-8d41-4176-ad48-e8180d96e02d" />
 
 4. You should see a new file named `ruby.rb` in your project folder. Open it using an editor of your choice.
 
