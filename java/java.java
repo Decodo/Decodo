@@ -14,8 +14,8 @@ import org.apache.http.impl.conn.BasicHttpClientConnectionManager;
 import org.apache.http.util.EntityUtils;
 
 class Client {
-    public static final String username = "SP_user";
-    public static final String password = "SP_pass";
+    public static final String username = "username";
+    public static final String password = "password";
     public static final int port = 7000;
     public CloseableHttpClient client;
 
