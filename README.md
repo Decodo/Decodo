@@ -27,7 +27,7 @@ Access to over 125 million high-quality IPs with Decodo – the ultimate proxy s
 ## What is Decodo?
 [Decodo](https://decodo.com/) is a rotating residential proxy network that allows users to collect data from the web using a pool of over 115 million IPs. It's based on real household devices, which ensures integrity and complete anonymity during online activities.
 
-You can choose between rotating proxies, which change with each new request, or sticky IP sessions, which keep your session for a longer period (up to 30 minutes). [Interested in learning more?](https://decodo.com/questions/how-does-it-work?utm_source=github&utm_medium=referral&utm_campaign=repository&utm_content=hyperlink)
+You can choose between rotating proxies, which change with each new request, or sticky IP sessions, which keep your session for a longer period (up to 60 minutes). [Interested in learning more?](https://decodo.com/questions/how-does-it-work?utm_source=github&utm_medium=referral&utm_campaign=repository&utm_content=hyperlink)
 
 Looking for datacenter proxies instead? [Decodo offers a blazing-fast shared proxy pool](https://decodo.com/proxies/shared-proxies?utm_source=github&utm_medium=referral&utm_campaign=repository&utm_content=hyperlink)! If you don't like sharing your IP address with someone else, you should also consider getting dedicated data center proxies. These proxies don't rotate and are yours exclusively with unlimited traffic. We also offer highly authentic mobile proxies and fast yet reliable static residential (ISP) proxies.
 
