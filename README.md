@@ -42,7 +42,7 @@ There are 2 authentication options: username:password and whitelisted IP. The us
  1. [Register for a Decodo account](https://dashboard.decodo.com/register&utm_source=github&utm_medium=referral&utm_campaign=repository&utm_content=hyperlink).
  2. [Choose a plan](https://decodo.com/proxies/residential-proxies/pricing?utm_source=github&utm_medium=referral&utm_campaign=repository&utm_content=hyperlink).
  3. Make a purchase.
- 4. Access 55M+ residential IPs.
+ 4. Access 115M+ ethically-sourced residential IPs.
 <br>
 
 Accepted payment methods:
@@ -55,7 +55,7 @@ Residential proxies use real devices based in physical locations worldwide. They
 A mobile proxy is an intermediary from real mobile devices connected to any mobile carrier and run on mobile networks. They feature the highest success rates in overcoming CAPTCHAs or IP blocks, and advanced targeting options. Choose from IPs associated with 700+ ASNs, including Verizon, T-Mobile, O2, EE, and more.
 
 ## Locations
-Decodo offers a wide proxy pool that covers locations worldwide. You can choose IPs from 195+ countries including the UK, US, Germany, India, Canada, Japan, and many more. [Check out the full list here](https://decodo.com/proxies/list).
+Decodo offers a wide proxy pool that covers 195+ locations worldwide. You can choose IPs from 195+ countries including the UK, US, Germany, India, Canada, Japan, and many more. [Check out the full list here](https://decodo.com/proxies/list).
 ![Locations](https://github.com/Decodo/Decodo/assets/159907476/e40090ce-44de-4e5d-93e3-bb3df1f8425d)
 
 
