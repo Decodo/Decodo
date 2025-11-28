@@ -28,7 +28,7 @@ HTTP(s):
 `curl https://raw.githubusercontent.com/Decodo/Decodo/master/python/python.py > python.py`
 
 SOCKS5:
-`curl https://raw.githubusercontent.com/Decodo/Decodo/master/python/python.py > pythonsocks5h.py`
+`curl https://raw.githubusercontent.com/Decodo/Decodo/master/python/pythonsocks5h.py > pythonsocks5h.py
 
 <img width="689" alt="image" src="https://github.com/user-attachments/assets/10fb5ad8-145e-4e41-b43c-189179bf14eb" />
 
