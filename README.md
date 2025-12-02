@@ -38,7 +38,7 @@ Getting started with Decodo is simple. In the [dashboard](https://dashboard.deco
 There are 2 authentication options: username:password and whitelisted IP. The username:password method requires you to use your unique credentials to access the proxy pool. Whitelisted IP allows you to add your IP address to the system to use our proxies without the need to authenticate. For more information, check out the [quick start guide](https://Decodo.com/Decodo-quick-start-guide?utm_source=github&utm_medium=referral&utm_campaign=repository&utm_content=hyperlink).
 
 ## Getting started
-<br>![Getting-Started](https://github.com/Decodo/Decodo/assets/159907476/1ae1b298-d457-4f53-9a01-f425916ac8f4)
+<br>![Getting-Started](https://i.imgur.com/rQBuXjA.png)
  1. [Register for a Decodo account](https://dashboard.decodo.com/register&utm_source=github&utm_medium=referral&utm_campaign=repository&utm_content=hyperlink).
  2. [Choose a plan](https://decodo.com/proxies/residential-proxies/pricing?utm_source=github&utm_medium=referral&utm_campaign=repository&utm_content=hyperlink).
  3. Make a purchase.
