@@ -30,7 +30,7 @@ HTTP(s):
 `curl https://raw.githubusercontent.com/Decodo/Decodo/master/nodejs/node.js > node.js`
 
 SOCKS5:
-`curl https://raw.githubusercontent.com/Decodo/Decodo/master/nodejs/node.js > nodesocks5h.js`
+`curl https://raw.githubusercontent.com/Decodo/Decodo/master/nodejs/nodesocks5h.js > nodesocks5h.js`
 
 <img width="674" alt="image" src="https://github.com/user-attachments/assets/1e89f7f8-78aa-472c-b79a-95bf873ce3e2" />
 
