@@ -28,7 +28,7 @@ HTTP(s):
 `curl https://raw.githubusercontent.com/Decodo/Decodo/master/php/php.php > php.php`
 
 SOCKS5:
-`curl https://raw.githubusercontent.com/Decodo/Decodo/master/php/php.php > phpsocks5h.php`
+`curl https://raw.githubusercontent.com/Decodo/Decodo/master/php/phpsocks5h.php > phpsocks5h.php`
 
 <img width="657" alt="image" src="https://github.com/user-attachments/assets/760b7a85-b962-42af-aa6d-f3388830f8ad" />
 
